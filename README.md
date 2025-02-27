@@ -14,15 +14,9 @@ We collect 600 leaves of 120 peanut cultivars with 5 sample per cultivar to buil
 Please cite our paper if you use this dataset in your work:  
 
 @inproceedings{chen2023fan,
-
   title={Fan-beam binarization difference projection (FB-BDP): A novel local object descriptor for fine-grained leaf image retrieval},
-  
   author={Chen, Xin and Wang, Bin and Gao, Yongsheng},
-  
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  
   pages={11102--11111},
-  
   year={2023}
-  
 }   
